@@ -17,7 +17,7 @@ export default function DashboardStatsGrid() {
 				</div>
 			</BoxWrapper>
 			<BoxWrapper>
-				<div className="rounded-full h-12 w-12 flex items-center justify-center bg-orange-600">
+				<div className="rounded-full h-12 w-12 flex items-center justify-center bg-green-400">
 					<IoPieChart className="text-2xl text-white" />
 				</div>
 				<div className="pl-4">
